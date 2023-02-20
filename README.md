@@ -56,4 +56,4 @@ General CSS practice, but more specifically think I'm starting to get the hang o
 
 - Website - [Shola Umakhihe](https://www.your-site.com)
 - Frontend Mentor - [@jayumaks](https://www.frontendmentor.io/profile/jayumaks
-- Twitter - [@yourusername](https://www.twitter.com/jayumaks)
+- Twitter - [@jayumaks](https://www.twitter.com/jayumaks)
